@@ -8,6 +8,7 @@
     "chartist": "0.11.4",
     "gulp": "4.0.2",
     "gulp-append-prepend": "1.0.9",
+    "node": "^14.21.3",
     "node-modules": "^1.0.1",
     "react": ">=16.8.0",
     "react-apexcharts": "^1.4.0",
